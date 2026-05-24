@@ -1,4 +1,4 @@
-[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/yba01/student_management_cli/blob/master/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/yba01/student-management-cli/blob/main/README.md)
 # Student Management CLI
 
 ## Description
